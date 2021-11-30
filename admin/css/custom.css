@@ -1,0 +1,14 @@
+body {
+  padding-top: 70px;
+  /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+#calendar {
+  max-width: 600px;
+  padding-top: 30px;
+  left: 35%;
+  position: absolute;
+}
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
